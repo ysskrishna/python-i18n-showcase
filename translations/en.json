@@ -1,0 +1,14 @@
+{
+  "GREETING": "Hello",
+  "MESSAGES": {
+    "WELCOME": "Welcome to our application!",
+    "FAREWELL": "Thank you for using our application!",
+    "ITEMS_COUNT": {
+      "zero": "You have no items",
+      "one": "You have one item",
+      "other": "You have %{count} items"
+    },
+    "WELCOME_USER": "Welcome, %{name}!",
+    "FILE_INFO": "File '%{filename}' was last modified on %{date}"
+  }
+}

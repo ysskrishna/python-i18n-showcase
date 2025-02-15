@@ -1,0 +1,14 @@
+{
+  "GREETING": "你好",
+  "MESSAGES": {
+    "WELCOME": "欢迎使用我们的应用！",
+    "FAREWELL": "感谢使用我们的应用！",
+    "ITEMS_COUNT": {
+      "zero": "你没有任何物品",
+      "one": "你有一个物品",
+      "other": "你有 %{count} 个物品"
+    },
+    "WELCOME_USER": "欢迎，%{name}！",
+    "FILE_INFO": "文件 '%{filename}' 最后修改于 %{date}"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "GREETING": "Hola",
+  "MESSAGES": {
+    "WELCOME": "¡Bienvenido a nuestra aplicación!",
+    "FAREWELL": "¡Gracias por usar nuestra aplicación!",
+    "ITEMS_COUNT": {
+      "zero": "No tienes artículos",
+      "one": "Tienes un artículo",
+      "other": "Tienes %{count} artículos"
+    },
+    "WELCOME_USER": "¡Bienvenido, %{name}!",
+    "FILE_INFO": "El archivo '%{filename}' fue modificado por última vez el %{date}"
+  }
+}
