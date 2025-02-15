@@ -7,7 +7,11 @@ A demonstration of internationalization (i18n) features in Python, showcasing mu
 - 🌐 Multi-language support (English, Spanish, Chinese)
 - 📝 Pluralization rules demonstration
 - 🔄 String interpolation with variables
+- 📅 Date and time formatting
+- 💰 Currency formatting
 - 📦 Simple and clean implementation using Python i18n package
+- 📝 Translation files are in JSON format
+- Extendible to more languages
 
 ## Installation
 
@@ -38,46 +42,18 @@ Run the demonstration:
 python app.py
 ```
 
-This will show translations in all supported languages, demonstrating:
-- Basic text translations
-- Pluralization with different counts (0, 1, many)
-- String interpolation with dynamic values
-- Date formatting
-
 ## Project Structure
 
 ```
 .
-├── app.py                 # Main application file
-├── translations/          # Translation files
+├── app.py                # Main application file
+├── translations/         # Translation files
 │   ├── en.json           # English translations
 │   ├── es.json           # Spanish translations
 │   └── zh.json           # Chinese translations
-├── requirements.txt       # Project dependencies
+├── output.log            # Log file containing console output
+├── requirements.txt      # Project dependencies
 └── README.md             # This file
-```
-
-## Translation Examples
-
-### Basic Translation
-```python
-print(i18n.t('GREETING'))
-# English: "Hello"
-# Spanish: "Hola"
-# Chinese: "你好"
-```
-
-### Pluralization
-```python
-print(i18n.t('MESSAGES.ITEMS_COUNT', count=0))
-print(i18n.t('MESSAGES.ITEMS_COUNT', count=1))
-print(i18n.t('MESSAGES.ITEMS_COUNT', count=5))
-```
-
-### String Interpolation
-```python
-print(i18n.t('MESSAGES.WELCOME_USER', name='John'))
-print(i18n.t('MESSAGES.FILE_INFO', filename='document.txt', date='2024-03-21'))
 ```
 
 ## Contributing

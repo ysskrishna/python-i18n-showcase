@@ -9,6 +9,8 @@
       "other": "You have %{count} items"
     },
     "WELCOME_USER": "Welcome, %{name}!",
-    "FILE_INFO": "File '%{filename}' was last modified on %{date}"
+    "FILE_INFO": "File '%{filename}' was last modified on %{date}",
+    "NUMBER_DISPLAY": "The formatted number is: %{number}",
+    "PRICE_DISPLAY": "The price is: %{price}"
   }
 }

@@ -4,11 +4,13 @@
     "WELCOME": "欢迎使用我们的应用！",
     "FAREWELL": "感谢使用我们的应用！",
     "ITEMS_COUNT": {
-      "zero": "你没有任何物品",
-      "one": "你有一个物品",
-      "other": "你有 %{count} 个物品"
+      "zero": "您没有任何项目",
+      "one": "您有一个项目",
+      "other": "您有 %{count} 个项目"
     },
     "WELCOME_USER": "欢迎，%{name}！",
-    "FILE_INFO": "文件 '%{filename}' 最后修改于 %{date}"
+    "FILE_INFO": "文件 '%{filename}' 最后修改时间为 %{date}",
+    "NUMBER_DISPLAY": "格式化的数字是：%{number}",
+    "PRICE_DISPLAY": "价格是：%{price}"
   }
 }

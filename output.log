@@ -1,0 +1,81 @@
+
+=== Testing en translations ===
+
+-- Basic Translations --
+Hello
+Welcome to our application!
+Thank you for using our application!
+
+-- Pluralization --
+You have no items
+You have one item
+You have 5 items
+
+-- Variable Interpolation --
+Welcome, John!
+
+-- Date Formatting --
+File 'document.txt' was last modified on Feb 15, 2025, 6:29:13 PM
+
+-- Number Formatting --
+The formatted number is: 1,234,567.89
+
+-- Currency Formatting --
+The price is: $1,234.56
+
+-- Error Handling --
+Translation not found
+
+=== Testing es translations ===
+
+-- Basic Translations --
+¡Hola!
+¡Bienvenido a nuestra aplicación!
+¡Gracias por usar nuestra aplicación!
+
+-- Pluralization --
+No tienes artículos
+Tienes un artículo
+Tienes 5 artículos
+
+-- Variable Interpolation --
+¡Bienvenido, John!
+
+-- Date Formatting --
+El archivo 'document.txt' fue modificado por última vez el 15 feb 2025, 18:29:13
+
+-- Number Formatting --
+El número formateado es: 1.234.567,89
+
+-- Currency Formatting --
+El precio es: 1.234,56 US$
+
+-- Error Handling --
+Translation not found
+
+=== Testing zh translations ===
+
+-- Basic Translations --
+你好
+欢迎使用我们的应用！
+感谢使用我们的应用！
+
+-- Pluralization --
+您没有任何项目
+您有一个项目
+您有 5 个项目
+
+-- Variable Interpolation --
+欢迎，John！
+
+-- Date Formatting --
+文件 'document.txt' 最后修改时间为 2025年2月15日 18:29:13
+
+-- Number Formatting --
+格式化的数字是：1,234,567.89
+
+-- Currency Formatting --
+价格是：US$1,234.56
+
+-- Error Handling --
+Translation not found

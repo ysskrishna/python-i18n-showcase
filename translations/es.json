@@ -1,5 +1,5 @@
 {
-  "GREETING": "Hola",
+  "GREETING": "¡Hola!",
   "MESSAGES": {
     "WELCOME": "¡Bienvenido a nuestra aplicación!",
     "FAREWELL": "¡Gracias por usar nuestra aplicación!",
@@ -9,6 +9,8 @@
       "other": "Tienes %{count} artículos"
     },
     "WELCOME_USER": "¡Bienvenido, %{name}!",
-    "FILE_INFO": "El archivo '%{filename}' fue modificado por última vez el %{date}"
+    "FILE_INFO": "El archivo '%{filename}' fue modificado por última vez el %{date}",
+    "NUMBER_DISPLAY": "El número formateado es: %{number}",
+    "PRICE_DISPLAY": "El precio es: %{price}"
   }
 }
