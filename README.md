@@ -1,5 +1,7 @@
 # python-i18n-showcase
 
+[![License: MIT](https://img.shields.io/github/license/ysskrishna/python-i18n-showcase)](https://github.com/ysskrishna/python-i18n-showcase/blob/main/LICENSE) [![Author site](https://img.shields.io/badge/author-ysskrishna.space-informational)](https://ysskrishna.space)
+
 A demonstration of internationalization (i18n) features in Python, showcasing multiple language support, pluralization rules, and string interpolation.
 
 ## Features
@@ -64,7 +66,32 @@ Contributions are welcome! Feel free to:
 - Add more complex pluralization rules
 - Enhance documentation
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+## Built and maintained by
 
-**Author:** [ysskrishna](https://github.com/ysskrishna)
+python-i18n-showcase is built and maintained by:
+
+| | Name | GitHub | Role |
+|---|------|--------|------|
+| <img src="https://github.com/ysskrishna.png?size=120" width="60" height="60" alt="Y. Siva Sai Krishna"> | **Y. Siva Sai Krishna** | [@ysskrishna](https://github.com/ysskrishna) | Creator |
+
+## Support
+
+If you find this project helpful:
+
+- ⭐ Star the repository
+- 🐛 [Report issues](https://github.com/ysskrishna/python-i18n-showcase/issues)
+- 🔀 Submit pull requests
+- 💝 [Sponsor on GitHub](https://github.com/sponsors/ysskrishna)
+
+## License
+
+MIT © [Y. Siva Sai Krishna](https://github.com/ysskrishna) — see [LICENSE](LICENSE) for details.
+
+---
+
+<p align="left">
+  <a href="https://github.com/ysskrishna">Author's GitHub</a> •
+  <a href="https://linkedin.com/in/ysskrishna">Author's LinkedIn</a> •
+  <a href="https://ysskrishna.space">Author's site</a> •
+  <a href="https://github.com/ysskrishna/python-i18n-showcase/issues">Report Issues</a>
+</p>
